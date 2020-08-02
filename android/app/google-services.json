@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864833092592",
+    "firebase_url": "https://gtuccovidapp.firebaseio.com",
+    "project_id": "gtuccovidapp",
+    "storage_bucket": "gtuccovidapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864833092592:android:4dacc108e48cee985bbb35",
+        "android_client_info": {
+          "package_name": "com.africa1country.gtuc_covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864833092592-lcn80fd21rigpakh3hl37sof96bm1hg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXBNTOx7Llkng5XWP9akP0IjTA5netQL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864833092592-lcn80fd21rigpakh3hl37sof96bm1hg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
